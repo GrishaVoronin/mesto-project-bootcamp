@@ -1,4 +1,4 @@
-.element__button-like_active {
+.element__button-like-active {
   background-image: url(../../../images/Active_like.svg);
   background-repeat: no-repeat;
   background-position: 50%;
@@ -13,6 +13,6 @@
   transition: opacity 1s ease-in;
 }
 
-.element__button-like_active:hover {
+.element__button-like-active:hover {
   opacity: 0.5;
 }

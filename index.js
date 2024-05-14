@@ -108,7 +108,7 @@ function addCard() {
 addCard();
 
 function likeCard(evt) {
-  evt.target.classList.toggle('element__button-like_active')
+  evt.target.classList.toggle('element__button-like-active')
 }
 
 function deleteCard(evt) {
