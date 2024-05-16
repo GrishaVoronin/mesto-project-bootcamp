@@ -1,6 +1,7 @@
 .element__footer-list {
   display: flex;
   flex-direction: row;
-  margin: 25px 15px 31px 21px;
+  height: 80px;
+  margin: 0;
   justify-content: space-between;
 }

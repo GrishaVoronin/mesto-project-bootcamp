@@ -1,7 +1,7 @@
 .element {
   background-color: #fff;
   width: 282px;
-  min-height: 361px;
+  max-height: 361px;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
